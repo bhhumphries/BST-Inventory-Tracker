@@ -1,0 +1,17 @@
+We don't currently carry ric!
+   Product | Purchased | Sold | Remaining | Profit $
+-----------------------------------------------------------
+    apples:        100:     25:         75: $ -10.25.
+  bannanas:         55:     10:         45: $ -34.55.
+       ham:        100:      0:        100: $ -150.00.
+ hamburger:        255:     65:        190: $ -183.10.
+      rice:        500:      0:        500: $ -125.00.
+   seltzer:        100:     40:         60: $ 69.60.
+
+Top sellers:
+-----------
+hamburger
+seltzer
+apples
+bannanas
+rice
